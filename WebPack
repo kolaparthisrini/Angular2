@@ -1,0 +1,10 @@
+Webpack? What is that?
+
+Web development is not what it used to be. In the olden days you would create a script tag, write your javascript 
+and that would be it. With the need of highly interactive and rich web applications and the use of modern web 
+technologies like TypeScript, SASS or ESnext and new features like ES6 modules we need something that can translate 
+our applications into something that can run in any browser.
+
+That’s where tools like Webpack step in. Webpack is a module bundler that takes all these files and modules, processes
+them and makes them available in a way that can be run in any browser. Moreover it can optimize your application by
+taking advantage of a rich community of plugins.
